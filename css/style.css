@@ -1,0 +1,39 @@
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  background-color: aquamarine;
+}
+li{
+  float: left;
+  padding: 20px;
+  display: block;
+  text-decoration: none;
+}
+li a{
+  color: black;
+}
+li a:hover{
+  background-color: white;
+}
+img{
+  border-radius: 50%;
+}
+table,td,th{
+  border: solid black;
+  border-collapse: collapse;
+}
+body{
+  background-image: url("img/n6.jpg");
+  background-color: burlywood;
+}
+#contactus{
+  width: 100%;
+  background-color: aqua;
+}
+
+input[type-submit]{
+  width: 50%;
+  background-color: chartreuse;
+  border: 2px solid chartreuse;
+  padding: 20px;
+}

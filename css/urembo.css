@@ -1,0 +1,21 @@
+ul{
+  width: 100%;
+  background-color: aquamarine;
+  overflow: hidden;
+}
+li{
+  padding: 20px;
+  float: left;
+  display: block;
+  list-style-type: none;
+}
+input[type=submit]{
+  background-color: chartreuse;
+  width: 100%;
+  border-radius: 5px;
+  padding: 12px;
+}
+input[type=submit]:hover{
+  background-color: crimson;
+}
+
